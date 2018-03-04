@@ -7,11 +7,11 @@ favorites.
 Badges
 ======
 
-.. image:: https://pypip.in/v/collective.favoriting/badge.png
+.. image:: https://img.shields.io/pypi/v/collective.favoriting.svg
     :target: https://crate.io/packages/collective.favoriting/
     :alt: Latest PyPI version
 
-.. image:: https://pypip.in/d/collective.favoriting/badge.png
+.. image:: https://img.shields.io/pypi/dm/collective.favoriting.svg
     :target: https://crate.io/packages/collective.favoriting/
     :alt: Number of PyPI downloads
 
